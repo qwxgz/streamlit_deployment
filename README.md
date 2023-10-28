@@ -13,6 +13,8 @@ https://community.databricks.com/t5/data-engineering/how-to-open-streamlit-url-t
 
 https://pypi.org/project/streamlit-azure-ad-login/
 
+https://pypi.org/project/msal-streamlit-authentication/
+
 https://towardsdatascience.com/beginner-guide-to-streamlit-deployment-on-azure-f6618eee1ba9
 
 https://collinprather.github.io/blog/docker/aws/2020/03/10/streamlit-docker-pt1.html
